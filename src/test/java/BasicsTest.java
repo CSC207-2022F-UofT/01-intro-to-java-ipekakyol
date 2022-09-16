@@ -81,5 +81,6 @@ public class BasicsTest {
 
         int[] arr4 = {17, 2};
         assertEquals(Basics.oddSum(arr4), 2);
+
     }
 }
